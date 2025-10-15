@@ -134,7 +134,7 @@
   <br>
   <img src="https://github-profile-trophy.vercel.app?username=Srivans7&row=7&theme=nord&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srivans7&theme=chartreuse-dark" height="70%" width="70%" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srivans7&theme=chartreuse-dark" height="100%" width="100%" alt="activity-graph graph"  />
 </div>
 
 ###
