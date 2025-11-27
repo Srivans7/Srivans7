@@ -125,6 +125,10 @@
 <h5 align="left">Gmail: <a href= "mailto:srivanskatriyar7@gmail.com">srivanskatriyar7@gmail.com</h5>
 
 ###
+
+<h5 align="left">Portfolio: <a href= "https://srivans-portfolio.netlify.app/">Srivans's Portfolio </h5>
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Srivans7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <br>
