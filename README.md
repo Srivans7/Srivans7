@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning DSA<br>🎯 Goals: FAANG</p>
+<p align="left">📚 I'm currently learning DSA<br>🎯 Goals:- FAANG</p>
 
 ###
 
